@@ -1,5 +1,22 @@
 [
-  { "Username": "Tharun", "Password": "2006", "Hwid": "1" },
-  { "Username": "2", "Password": "22", "Hwid": "0" },
-  { "Username": "Alice", "Password": "secret", "Hwid": "0" }
+  {
+    "Username": "1",
+    "Password": "1",
+    "Hwid": "1"
+  },
+  {
+    "Username": "Thadi",
+    "Password": "1212",
+    "Hwid": "1"
+  },
+  {
+    "Username": "Kiraa",
+    "Password": "1212",
+    "Hwid": "1"
+  },
+  {
+    "Username": "newuser",
+    "Password": "pass",
+    "Hwid": "1"
+  }
 ]

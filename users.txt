@@ -1,2 +1,1 @@
-user = "Tharun" pass = "2006" hwid = "1"
-user = "𝟷" pass = "𝟷" hwid = "1"
+user = "2" pass = "22" hwid = "1"

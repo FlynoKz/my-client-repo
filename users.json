@@ -1,1 +1,5 @@
-
+[
+  { "Username": "Tharun", "Password": "2006", "Hwid": "1" },
+  { "Username": "2", "Password": "22", "Hwid": "1" },
+  { "Username": "Alice", "Password": "secret", "Hwid": "0" }
+]
